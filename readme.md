@@ -14,3 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+Use of dispose so users can make tweaks to the galaxy without using up their cpus memory.
